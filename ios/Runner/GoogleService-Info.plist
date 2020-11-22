@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>421814186530-l7sj2fao0sabem85s4i5flkepdk3chov.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.421814186530-l7sj2fao0sabem85s4i5flkepdk3chov</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxll00nS_MT3Soz5SSqD4CNgYKQajFvfc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>421814186530</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ologunb.tweetSche</string>
+	<key>PROJECT_ID</key>
+	<string>tweetsche</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tweetsche.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:421814186530:ios:96bfb623e3fc28a059507b</string>
+	<key>DATABASE_URL</key>
+	<string>https://tweetsche.firebaseio.com</string>
+</dict>
+</plist>

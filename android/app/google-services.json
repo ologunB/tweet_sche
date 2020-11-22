@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "421814186530",
+    "firebase_url": "https://tweetsche.firebaseio.com",
+    "project_id": "tweetsche",
+    "storage_bucket": "tweetsche.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421814186530:android:6186364d2e1d2c0a59507b",
+        "android_client_info": {
+          "package_name": "com.ologunb.tweet_sche"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421814186530-vfq8prqu41e96plcc7p4uqa87fff5d8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ologunb.tweet_sche",
+            "certificate_hash": "c6e94cdc70d739c33571dad023b3455635423255"
+          }
+        },
+        {
+          "client_id": "421814186530-183jv3kqvf63mfredc35h7b0bkrnqdh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-sfTknwEoJIom_HwMcEmwAFm1PmTPEl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421814186530-183jv3kqvf63mfredc35h7b0bkrnqdh6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421814186530-l7sj2fao0sabem85s4i5flkepdk3chov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ologunb.tweetSche"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
